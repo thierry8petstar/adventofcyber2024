@@ -64,4 +64,4 @@ These solutions are my own interpretations and approaches to the challenges and 
 ---
 
 Happy hacking! 🎅🎄  
-**Author:** Anurag Kumar (aka Noob Pirate / blionrie)  
+**Author:**  Noob Pirate / blionrie  
