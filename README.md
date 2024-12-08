@@ -23,7 +23,7 @@ Each day’s writeup will include:
 | 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it. | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-3-even-if-i-wanted-to-go-their-vulnerabilities-wouldnt-97b2166aa9dd) | [Solution](./Day3.md) |
 | 4   | I’m all atomic inside! | ✅ | [Writeup](https://Writeup.com/@yourusername/day4) | [Solution](./Day4.md) |
 | 5   | SOC-mas XX-what-ee? | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-5-soc-mas-xx-what-ee-06925b667560) | [Solution](./Day5.md) |
-| 6   | If I can't find a nice malware to use, I'm not going. | ✅ | [Writeup](https://Writeup.com/@yourusername/day6) | [Solution](./Day6.md) |
+| 6   | If I can't find a nice malware to use, I'm not going. | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-6-if-i-cant-find-a-nice-malware-to-use-i-m-not-going-46c8550c6343) | [Solution](./Day6.md) |
 | 7   | Oh, no. I'M SPEAKING IN CLOUDTRAIL! | ✅ | [Writeup](https://Writeup.com/@yourusername/day7) | [Solution](./Day7.md) |
 | 8   | Shellcodes of the world, unite! | ✅ | [Medium](https://medium.com/@yourusername/day8) | [Solution](./Day8.md) |
 
