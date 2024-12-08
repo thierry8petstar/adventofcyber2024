@@ -20,7 +20,7 @@ Each day’s writeup will include:
 |-----|-----------------|--------|--------|--------------|
 | 1   | Maybe SOC-mas music, he thought, doesn't come from a store? | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-a30c6a091294) | [Solution](./Day1.md) |
 | 2   | One man's false positive is another man's potpourri. | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-2-one-mans-false-positive-is-another-man-s-potpourri-296a4cdefeac) | [Solution](./Day2.md) |
-| 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it. | ✅ | [Writeup](https://Writeup.com/@yourusername/day3) | [Solution](./Day3.md) |
+| 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it. | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-3-even-if-i-wanted-to-go-their-vulnerabilities-wouldnt-97b2166aa9dd) | [Solution](./Day3.md) |
 | 4   | I’m all atomic inside! | ✅ | [Writeup](https://Writeup.com/@yourusername/day4) | [Solution](./Day4.md) |
 | 5   | SOC-mas XX-what-ee? | ✅ | [Writeup](https://Writeup.com/@yourusername/day5) | [Solution](./Day5.md) |
 | 6   | If I can't find a nice malware to use, I'm not going. | ✅ | [Writeup](https://Writeup.com/@yourusername/day6) | [Solution](./Day6.md) |
