@@ -18,9 +18,14 @@ Each day’s writeup will include:
 ### Progress Tracker
 | Day | Challenge Title | Status | Writeup Link |
 |-----|-----------------|--------|--------------|
-| 1   | TBD             | ✅      | [Writeup](./Day1.md) |
-| 2   | TBD             | ✅      | [Writeup](./Day2.md) |
-| 3   | TBD             | ✅      | [Writeup](./Day3.md) |
+| 1   | Maybe SOC-mas music, he thought, doesn't come from a store?             | ✅      | [Writeup](./Day1.md) |
+| 2   | One man's false positive is another man's potpourri.             | ✅      | [Writeup](./Day2.md) |
+| 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it.             | ✅      | [Writeup](./Day3.md) |
+| 4   | I’m all atomic inside!             | ✅      | [Writeup](./Day4.md) |
+| 5   | SOC-mas XX-what-ee?             | ✅      | [Writeup](./Day5.md) |
+| 6   | If I can't find a nice malware to use, I'm not going.             | ✅      | [Writeup](./Day6.md) |
+| 7   | Oh, no. I'M SPEAKING IN CLOUDTRAIL!             | ✅      | [Writeup](./Day7.md) |
+| 8   | Shellcodes of the world, unite!             | ✅      | [Writeup](./Day8.md) |
 | ... | ...             | ...    | ...          |
 
 ---
@@ -54,7 +59,7 @@ These solutions are my own interpretations and approaches to the challenges and 
 ## 🔗 Resources
 - [Advent of Cyber 2024 Official Page](https://tryhackme.com/christmas)  
 - [TryHackMe Platform](https://tryhackme.com/)  
-- [4nuxd.me](https://gchq.github.io/CyberChef/)  
+- [Medium](https://4nuxd.medium.com)  )  
 
 ---
 
