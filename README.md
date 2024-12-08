@@ -18,14 +18,14 @@ Each day’s writeup will include:
 ### Progress Tracker
 | Day | Challenge Title | Status | Medium | Solution |
 |-----|-----------------|--------|--------|--------------|
-| 1   | Maybe SOC-mas music, he thought, doesn't come from a store? | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-a30c6a091294) | [Writeup](./Day1.md) |
-| 2   | One man's false positive is another man's potpourri. | ✅ | [Medium](https://medium.com/@yourusername/day2) | [Writeup](./Day2.md) |
-| 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it. | ✅ | [Medium](https://medium.com/@yourusername/day3) | [Writeup](./Day3.md) |
-| 4   | I’m all atomic inside! | ✅ | [Medium](https://medium.com/@yourusername/day4) | [Writeup](./Day4.md) |
-| 5   | SOC-mas XX-what-ee? | ✅ | [Medium](https://medium.com/@yourusername/day5) | [Writeup](./Day5.md) |
-| 6   | If I can't find a nice malware to use, I'm not going. | ✅ | [Medium](https://medium.com/@yourusername/day6) | [Writeup](./Day6.md) |
-| 7   | Oh, no. I'M SPEAKING IN CLOUDTRAIL! | ✅ | [Medium](https://medium.com/@yourusername/day7) | [Writeup](./Day7.md) |
-| 8   | Shellcodes of the world, unite! | ✅ | [Medium](https://medium.com/@yourusername/day8) | [Writeup](./Day8.md) |
+| 1   | Maybe SOC-mas music, he thought, doesn't come from a store? | ✅ | [Writeup](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-1-maybe-soc-mas-music-he-thought-doesnt-come-from-a-a30c6a091294) | [Solution](./Day1.md) |
+| 2   | One man's false positive is another man's potpourri. | ✅ | [Writeup](https://Writeup.com/@yourusername/day2) | [Solution](./Day2.md) |
+| 3   | Even if I wanted to go, their vulnerabilities wouldn't allow it. | ✅ | [Writeup](https://Writeup.com/@yourusername/day3) | [Solution](./Day3.md) |
+| 4   | I’m all atomic inside! | ✅ | [Writeup](https://Writeup.com/@yourusername/day4) | [Solution](./Day4.md) |
+| 5   | SOC-mas XX-what-ee? | ✅ | [Writeup](https://Writeup.com/@yourusername/day5) | [Solution](./Day5.md) |
+| 6   | If I can't find a nice malware to use, I'm not going. | ✅ | [Writeup](https://Writeup.com/@yourusername/day6) | [Solution](./Day6.md) |
+| 7   | Oh, no. I'M SPEAKING IN CLOUDTRAIL! | ✅ | [Writeup](https://Writeup.com/@yourusername/day7) | [Solution](./Day7.md) |
+| 8   | Shellcodes of the world, unite! | ✅ | [Medium](https://medium.com/@yourusername/day8) | [Solution](./Day8.md) |
 
 ---
 
