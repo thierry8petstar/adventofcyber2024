@@ -28,7 +28,10 @@ Each day’s writeup will include:
 | 8   | Shellcodes of the world, unite! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-8-shellcodes-of-the-world-unite-2f4dca663b14) | [Solution](./Day8.md) |
 | 9   | Nine o'clock, make GRC fun, tell no one. | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-9-nine-oclock-make-grc-fun-tell-no-one-b60fc25c20c8) | [Solution](./Day9.md) |
 | 10   | He had a brain full of macros, and had shells in his soul | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-9-he-had-a-brain-full-of-macros-and-had-shells-in-his-soul-707393700035) | [Solution](./Day10.md) |
-| 11   | If you'd like to WPA, press the star key! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-9-nine-oclock-make-grc-fun-tell-no-one-b60fc25c20c8) | [Solution](./Day11.md) |
+| 11   | If you'd like to WPA, press the star key! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-11-if-youd-like-to-wpa-press-the-star-key-ffba1ebbdaaa) | [Solution](./Day11.md) |
+| 12   | If I can’t steal their money, I’ll steal their joy! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-12-if-i-cant-steal-their-money-i-ll-steal-their-joy-f1db4fcc8b3e) | [Solution](./Day12.md) |
+| 13   | It came without buffering! It came without lag! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-11-it-came-without-buffering-it-came-without-lag-05f8200fa647) | [Solution](./Day13.md) |
+| 14   | Upcoming! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-11-it-came-without-buffering-it-came-without-lag-05f8200fa647) | [Solution](./Day14.md) |
 
 ---
 
