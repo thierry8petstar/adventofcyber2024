@@ -32,7 +32,8 @@ Each day’s writeup will include:
 | 12   | If I can’t steal their money, I’ll steal their joy! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-12-if-i-cant-steal-their-money-i-ll-steal-their-joy-f1db4fcc8b3e) | [Solution](./Day12.md) |
 | 13   | It came without buffering! It came without lag! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-11-it-came-without-buffering-it-came-without-lag-05f8200fa647) | [Solution](./Day13.md) |
 | 14   | Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-14-even-if-were-horribly-mismanaged-there-ll-be-no-sad-0cf323bc7476) | [Solution](./Day14.md) |
-| 15   | Upcoming! | ✅ | [Medium](medium.com) | [Solution](./Day15.md) |
+| 15   | Be it ever so heinous, there's no place like Domain Controller. | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-14-be-it-ever-so-heinous-theres-no-place-like-domain-85474843b06a) | [Solution](./Day15.md) |
+| 16   | Upcoming! | ✅ | [Medium]() | [Solution](./Day16.md) |
 
 ---
 
