@@ -8,11 +8,11 @@
 
 **Answer:** `7d96660a-02e1-4112-9515-1762d0cb66b7`
 
-**Question3:What is the name of the vault secret?
+**Question3:What is the name of the vault secret?**
 
 **Answer:** `aoc2024`
 
-**Question4:What are the contents of the secret stored in the vault?
+**Question4:What are the contents of the secret stored in the vault?**
 
 **Answer:** `WhereIsMyMind1999`
 
