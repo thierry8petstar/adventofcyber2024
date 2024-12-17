@@ -34,7 +34,8 @@ Each day’s writeup will include:
 | 14   | Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-14-even-if-were-horribly-mismanaged-there-ll-be-no-sad-0cf323bc7476) | [Solution](./Day14.md) |
 | 15   | Be it ever so heinous, there's no place like Domain Controller. | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-14-be-it-ever-so-heinous-theres-no-place-like-domain-85474843b06a) | [Solution](./Day15.md) |
 | 16   | The Wareville’s Key Vault grew three sizes that day | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-16-the-warevilles-key-vault-grew-three-sizes-that-day-b988bc84f5d5) | [Solution](./Day16.md) |
-| 16   | Upcoming! | ✅ | [Medium]() | [Solution](./Day17.md) |
+| 17   | He analyzed and analyzed till his analyzer was sore! | ✅ | [Medium](https://4nuxd.medium.com/tryhackme-advent-of-cyber-2024-day-17-he-analyzed-and-analyzed-till-his-analyzer-was-sore-7dca669b16d8) | [Solution](./Day17.md) |
+| 18   | Upcoming! | ✅ | [Medium]() | [Solution](./Day18.md) |
 
 ---
 
